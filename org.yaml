@@ -1,0 +1,4 @@
+---
+repositories:
+  - name: .github
+    description: GH CI organization profile and management.
